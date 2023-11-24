@@ -16,7 +16,8 @@ export const validParenthesesHandler = (fn: any) => {
   }
 };
 
-const starterCodeValidParenthesesJS = `function validParentheses(s) {
+const starterCodeValidParenthesesJS = `// Do not edit function name
+function validParentheses(s) {
   // Write your code here
 };`;
 
