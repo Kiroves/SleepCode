@@ -7,4 +7,4 @@ Technologies used:
 - Backend: Firebase
 - Frontend: React, TypeScript, TailwindCSS
 
-Check it out for yourself:
+Check it out for yourself: https://sleep-code.vercel.app/
