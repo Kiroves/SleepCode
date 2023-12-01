@@ -4,10 +4,10 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <body>
+      <body className="bg-dark-layer-2">
         <Main />
         <NextScript />
       </body>
     </Html>
-  )
+  );
 }
